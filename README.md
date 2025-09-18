@@ -6,7 +6,9 @@ Sales across all time periods shows a strong trend of **seasonality** with sales
 Although the business has a high customer retention rate of 0.98 which means **98%** of customers who have bought an item before has gone to purchase another item in the future, the number of new customers has been decreasing drastically over time.
 In this report, we will explore the data and find the cause or ways to **attract new customer**s overtime.
 
-<img width="940" height="340" alt="image" src="https://github.com/user-attachments/assets/1192d439-f57b-40b2-976d-10e1d53f2c7b" />
+<img width="1089" height="561" alt="image" src="https://github.com/user-attachments/assets/c805a73c-ca15-4f74-bdfa-7310e19d9741" />
+
+
 
 ### Sales Trends:
 The seasonality pattern is shown across all sectors, consumer, corporate and home office which indicates **increased spending** on holidays such as black Fridays in November purchases and Christmas in December. 
@@ -20,7 +22,8 @@ The seasonality pattern is shown across all sectors, consumer, corporate and hom
 
 ### Customers
 
-<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/21c4ce92-13c8-4eb3-81ee-ef497479dad1" />
+<img width="1808" height="332" alt="image" src="https://github.com/user-attachments/assets/66ea6e8d-8573-4ff2-a62e-7bcc6a212feb" />
+
 
 *	The number of new customers has **sharply decreased** over the years, yet the total number of customers and sales have **increased** over time indicating an extremely loyal base of customers and unfortunately, a fault in the synthetic data. 
 
