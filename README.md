@@ -3,6 +3,7 @@ Using PowerBI and R studio to do an EDA on a superstore dataset
 ## Executive Summary
 ### Overview of Findings:
 Sales across all time periods shows a strong trend of **seasonality** with sales peaking in December and dropping by about **70%** in January. The **technology** sector generates the **highest number of sales** in any category and sector although it has the lowest order count. Amongst, the technology sector, mobile phones make up the majority of the **revenue by 40%**.
+
 Although the business has a high customer retention rate of 0.98 which means **98%** of customers who have bought an item before has gone to purchase another item in the future, the number of new customers has been decreasing drastically over time.
 In this report, we will explore the data and find the cause or ways to **attract new customer**s overtime.
 
