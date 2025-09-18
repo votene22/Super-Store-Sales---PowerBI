@@ -9,13 +9,13 @@ In this report, we will explore the data and find the cause or ways to **attract
 <img width="940" height="340" alt="image" src="https://github.com/user-attachments/assets/1192d439-f57b-40b2-976d-10e1d53f2c7b" />
 
 ### Sales Trends:
-•	The seasonality pattern is shown across all sectors, consumer, corporate and home office which indicates **increased spending** on holidays such as black Fridays in November purchases and Christmas in December. 
+The seasonality pattern is shown across all sectors, consumer, corporate and home office which indicates **increased spending** on holidays such as black Fridays in November purchases and Christmas in December. 
 
-•	There’s a positive trend in sales as sales go up on average **£1,200–1,500 per month** across 2015–2018. This equates to an approximate **£15K–18K annual growth.**
+* There’s a positive trend in sales as sales go up on average **£1,200–1,500 per month** across 2015–2018. This equates to an approximate **£15K–18K annual growth.**
 
-•	Despite having the lowest amount of orders, the technology sector has the highest sales of **£830k** compared to Furniture and Office Supplies with sales of **£728k** and **£705k** respectively. 
+* Despite having the lowest amount of orders, the technology sector has the highest sales of **£830k** compared to Furniture and Office Supplies with sales of **£728k** and **£705k** respectively. 
 
-•	There seems to be a **spike in technology purchases** around March, unexplained by our previous findings and diving deeper into the data, it looks like the spike is more present in the home office and consumer line. In many markets, March is the end of a Fiscal year, and small businesses and individuals often make last minute purchases to claim tax deductions. This aligns with **bulk buying** of machines, accessories and office supplies, which could explain the spike in March sales.
+* There seems to be a **spike in technology purchases** around March, unexplained by our previous findings and diving deeper into the data, it looks like the spike is more present in the home office and consumer line. In many markets, March is the end of a Fiscal year, and small businesses and individuals often make last minute purchases to claim tax deductions. This aligns with **bulk buying** of machines, accessories and office supplies, which could explain the spike in March sales.
 
 
 ### Customers
