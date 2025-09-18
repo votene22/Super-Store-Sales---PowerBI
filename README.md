@@ -1,5 +1,9 @@
 # Super-Store-Sales---PowerBI
 Using PowerBI and R studio to do an EDA on a superstore dataset
+### Main Dashboard
+
+<img width="2083" height="1172" alt="image" src="https://github.com/user-attachments/assets/b94d62b4-900b-4c03-b07b-66b8d2ddf3de" />
+
 ## Executive Summary
 ### Overview of Findings:
 Sales across all time periods shows a strong trend of **seasonality** with sales peaking in December and dropping by about **70%** in January. The **technology** sector generates the **highest number of sales** in any category and sector although it has the lowest order count. Amongst, the technology sector, mobile phones make up the majority of the **revenue by 40%**.
