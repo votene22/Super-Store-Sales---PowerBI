@@ -88,29 +88,28 @@ The model overall, projects **weaker sales in Q3 and Q4** but shows a stronger p
 ### Model Diagnostics
 When deciding what model to use for the time series analysis, there were two models that were described above that I had to choose from. An Arima(0,1,1)(0,1,1)[12] model or an ETS model.
 **ARIMA Model (0,1,1)(0,1,1)[12]**
-*	**Residual Analysis:**
+**Residual Analysis:**
 *	Residuals show some autocorrelation at multiple lags in the ACF plot → suggests the model has not captured all seasonal structure.
 *	Residual histogram is slightly skewed, not fully Gaussian.
-*	**Training Accuracy:**
+**Training Accuracy:**
 *	RMSE = 9390.5
 *	MAE = 6362.7
 *	MAPE = 14.3%
-*	**Interpretation:**
+**Interpretation:**
 *	While ARIMA captures short-term volatility, it leaves more unexplained structure in the residuals.
 *	Forecasts are less smooth and harder to interpret for executives.
 
 <img width="839" height="1202" alt="image" src="https://github.com/user-attachments/assets/dd6a9a83-3a27-4f10-ae59-d6562a0e1fbe" />
 
-### ETS Model (A,N,A) — Additive Error, No Trend, Additive Seasonality
-*	**Residual Analysis:**
+### ETS Model (A,N,A) — Additive Error, No Trend, Additive Seasonality**Residual Analysis:**
 *	Residuals look more randomly scattered, closer to white noise.
 *	Ljung–Box test (Q* = 15.857, p-value = 0.1038) fails to reject null hypothesis → residuals are not significantly autocorrelated.
 *	Histogram of residuals is closer to normal.
-*	**Training Accuracy:**
+**Training Accuracy:**
 *	RMSE = 9749.9
 *	MAE = 7799.3
 *	MAPE = 21.9% (slightly worse on training error than ARIMA).
-*	**Interpretation:**
+**Interpretation:**
 *	Despite slightly higher training error, ETS produces cleaner residuals and passes the diagnostic checks.
 *	Forecasts align closely with the known seasonal pattern (Nov–Dec peaks, Jan dips), making them easier to communicate
 
