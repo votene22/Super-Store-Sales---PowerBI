@@ -6,11 +6,12 @@ Sales across all time periods shows a strong trend of **seasonality** with sales
 Although the business has a high customer retention rate of 0.98 which means **98%** of customers who have bought an item before has gone to purchase another item in the future, the number of new customers has been decreasing drastically over time.
 In this report, we will explore the data and find the cause or ways to **attract new customer**s overtime.
 
-<img width="954" height="471" alt="image" src="https://github.com/user-attachments/assets/1ad0c2ea-d048-4a9e-b421-e587ed0ba051" />
-
-  
 
 ### Sales Trends:
+
+<img width="954" height="471" alt="image" src="https://github.com/user-attachments/assets/1ad0c2ea-d048-4a9e-b421-e587ed0ba051" />
+
+
 The seasonality pattern is shown across all sectors, consumer, corporate and home office which indicates **increased spending** on holidays such as black Fridays in November purchases and Christmas in December. 
 
 * There’s a positive trend in sales as sales go up on average **£1,200–1,500 per month** across 2015–2018. This equates to an approximate **£15K–18K annual growth.**
