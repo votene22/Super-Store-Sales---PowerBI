@@ -6,9 +6,9 @@ Sales across all time periods shows a strong trend of **seasonality** with sales
 Although the business has a high customer retention rate of 0.98 which means **98%** of customers who have bought an item before has gone to purchase another item in the future, the number of new customers has been decreasing drastically over time.
 In this report, we will explore the data and find the cause or ways to **attract new customer**s overtime.
 
-<img width="1089" height="561" alt="image" src="https://github.com/user-attachments/assets/c805a73c-ca15-4f74-bdfa-7310e19d9741" />
+<img width="954" height="471" alt="image" src="https://github.com/user-attachments/assets/1ad0c2ea-d048-4a9e-b421-e587ed0ba051" />
 
-
+  
 
 ### Sales Trends:
 The seasonality pattern is shown across all sectors, consumer, corporate and home office which indicates **increased spending** on holidays such as black Fridays in November purchases and Christmas in December. 
@@ -22,7 +22,7 @@ The seasonality pattern is shown across all sectors, consumer, corporate and hom
 
 ### Customers
 
-<img width="1808" height="332" alt="image" src="https://github.com/user-attachments/assets/66ea6e8d-8573-4ff2-a62e-7bcc6a212feb" />
+<img width="1076" height="579" alt="image" src="https://github.com/user-attachments/assets/531f0824-e6e1-41c2-b326-c2b5414f4d95" />
 
 
 *	The number of new customers has **sharply decreased** over the years, yet the total number of customers and sales have **increased** over time indicating an extremely loyal base of customers and unfortunately, a fault in the synthetic data. 
@@ -32,7 +32,7 @@ So how can we introduce new customers?
 
 ### Recommendations
 
-<img width="940" height="177" alt="image" src="https://github.com/user-attachments/assets/e1430b19-6091-465f-a329-ea20772672ba" />
+<img width="1654" height="327" alt="image" src="https://github.com/user-attachments/assets/18fe1d2a-cd09-4da5-a8d1-bf4c4ca920ae" />
 
 Looking at the chart above, we see the number of **gateway customers** which is the number of new customers that purchased a product. The repeat customers after gateway means how many more products the new customers that bought that same product and went on to buy other products. It shows that 98% of new customers that bought a product also bought another product down the line. That’s quite impressive.
 
